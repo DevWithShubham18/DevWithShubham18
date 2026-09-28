@@ -1,50 +1,73 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Hi, I'm Shubham. I build AI applications with Python." width="100%" />
-</p>
+# Hey, I’m Shubham 👋
 
-<p align="center">
-  <a href="https://github.com/DevWithShubham18?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-111827?style=for-the-badge&logo=github&logoColor=74e7ef" alt="Explore my projects" /></a>
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Document_Tools-111827?style=for-the-badge&labelColor=242d43&color=111827" alt="Focus: AI and document tools" />
-</p>
+### Python developer exploring AI, documents, and creative tools.
 
-## 👋 A little about me
+I build small applications around a simple idea: **make information easier to use.** My projects explore how language models can turn documents into answers, structured data, and visual content.
 
-I'm **Shubham**, a developer exploring how AI can make information easier to work with. I build with **Python**, connecting language models, document processing, and interactive interfaces.
+🧠 Exploring **AI agents, retrieval, and language model workflows**.  
+📄 Building with **Python, Streamlit, LangChain, and LangGraph**.  
+🎨 Experimenting with **illustrations and infographics**.  
+⚡ Built with **team StackOverflow** at Hackaura’s 24-hour AI hackathon.
 
-My projects range from **AI assistants for PDFs** and **structured data extraction** to experiments with **illustrations and infographics**. I also built an AI-domain project with **team StackOverflow** at Hackaura's 24-hour hackathon.
+<br />
 
-- 🧠 **Exploring:** AI agents, document retrieval, and workflows with language models.
-- 📄 **Building:** Tools that turn PDFs into summaries, questions, and structured data.
-- 🎨 **Experimenting:** Creative tools for visual content and infographics.
-
-## 🛠️ Tools I build with
+## 🧰 My development toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
-  <img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/PyMuPDF-64748B?style=for-the-badge" alt="PyMuPDF" />
+  <img src="./assets/icons/python.svg" alt="Python" title="Python" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/git.svg" alt="Git" title="Git" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/github.svg" alt="GitHub" title="GitHub" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/streamlit.svg" alt="Streamlit" title="Streamlit" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/langchain.svg" alt="LangChain" title="LangChain" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/langgraph.svg" alt="LangGraph" title="LangGraph" width="42" height="42" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="42" height="42" />
 </p>
 
-## 🚀 Featured projects
+**Languages** · Python, JavaScript  
+**AI & retrieval** · LangChain, LangGraph, Groq, FAISS, Hugging Face embeddings  
+**Apps & documents** · Streamlit, PyMuPDF, PyPDFLoader
 
-<a href="https://github.com/DevWithShubham18/Agentic_pdf_parser"><img src="./assets/pdf-assistant.svg" width="49%" alt="AI PDF Assistant — document retrieval, summaries, MCQs and JSON extraction" /></a>
-<a href="https://github.com/DevWithShubham18/pdf_to_json"><img src="./assets/pdf-json.svg" width="49%" alt="PDF to JSON — structured data extraction from company reports" /></a>
-<a href="https://github.com/DevWithShubham18/infographic-maker"><img src="./assets/infographics.svg" width="49%" alt="Infographic Maker — experiments with visual information" /></a>
-<a href="https://github.com/DevWithShubham18/spacestation-challenge-stackoverflow"><img src="./assets/hackathon.svg" width="49%" alt="Space Station Challenge — Hackaura hackathon project with team StackOverflow" /></a>
+<br />
+
+## 📊 My GitHub notebook
 
 <p align="center">
-  <a href="https://github.com/DevWithShubham18?tab=repositories"><strong>See all my repositories →</strong></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevWithShubham18&theme=github_dark" alt="Shubham’s GitHub contribution history" width="100%" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevWithShubham18&theme=github_dark" alt="Shubham’s GitHub activity statistics" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevWithShubham18&theme=github_dark" alt="Languages by public repository count" width="49%" />
+</p>
+
+<sub>Cards refresh through GitHub Profile Summary Cards; cached activity may take time to update.</sub>
+
+<br />
+
+## 🔎 A few things I’ve built
+
+**[AI PDF Assistant ↗](https://github.com/DevWithShubham18/Agentic_pdf_parser)**  
+A document assistant prototype combining retrieval with tools for summaries, multiple-choice questions, and JSON extraction.
+
+**[PDF to JSON ↗](https://github.com/DevWithShubham18/pdf_to_json)**  
+A Streamlit app that extracts company report text and uses an LLM to produce structured fields and a summary.
+
+**[Infographic Maker ↗](https://github.com/DevWithShubham18/infographic-maker)**  
+An experiment in turning information into visual content.
+
+**[Space Station Challenge ↗](https://github.com/DevWithShubham18/spacestation-challenge-stackoverflow)**  
+Our team StackOverflow project for Hackaura’s 24-hour AI hackathon.
 
 ---
 
 <p align="center">
-  <strong>Thanks for stopping by.</strong><br />
-  Take a look around — each repository is another idea I'm exploring.
+  <strong>There’s more in the repositories.</strong><br />
+  <a href="https://github.com/DevWithShubham18?tab=repositories">Explore my work →</a>
 </p>
